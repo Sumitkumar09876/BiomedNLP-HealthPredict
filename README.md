@@ -13,8 +13,6 @@ This repository contains the code for a Drug Prediction and Polypharmacy System,
 *   ⚠️ **Polypharmacy Risk Assessment:** Identification of potential risks associated with using multiple medications concurrently.
 *   🩺 **Disease Prediction:** Prediction of the likely disease a patient might be suffering from, based on their presented symptoms.
 
-**[Optional: Insert a GIF or short video demo here showing the interactive widget in action.  This significantly enhances the "interactive" feel of the README.]**
-
 ## Table of Contents
 
 *   [Project Overview](#project-overview)
