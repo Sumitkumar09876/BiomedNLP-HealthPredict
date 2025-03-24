@@ -57,7 +57,7 @@ The system takes patient information, including:
 
 **[Option 1: Link to Colab Notebook (Highly Recommended for "Interactive")]**
 
-[![Open In Colab](https://colab.research.google.com/drive/1uiNrRBHW6t-8p32Xq7FVf1cfL-TChG7_?authuser=4#scrollTo=q3aiZXxHkVUb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uiNrRBHW6t-8p32Xq7FVf1cfL-TChG7_?authuser=4#scrollTo=q3aiZXxHkVUb)
 
 > Click the "Open in Colab" badge above to launch an interactive Jupyter Notebook in Google Colab. You can run the notebook and use the interactive widget at the end to test the Drug Prediction and Polypharmacy System directly in your browser!  (Remember to replace `link-to-your-colab-notebook-here` with your actual Colab notebook link).
 
