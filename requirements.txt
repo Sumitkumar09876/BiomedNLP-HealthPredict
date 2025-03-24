@@ -1,0 +1,19 @@
+# Core data processing and analysis
+pandas>=1.3.5
+numpy>=1.21.0
+scikit-learn>=1.0.2
+
+# Deep learning
+torch>=1.10.0
+transformers>=4.16.0
+
+# Visualization
+matplotlib>=3.5.1
+seaborn>=0.11.2
+
+# Jupyter and interactive tools
+ipywidgets>=7.6.5
+tqdm>=4.62.0
+
+# Utilities
+pickle5>=0.0.11; python_version < '3.8'
