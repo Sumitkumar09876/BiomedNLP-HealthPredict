@@ -1,5 +1,5 @@
 # Drug Prediction and Polypharmacy System
-
+**Developed by Sumit Kumar - 2025**
 [![Project License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python 3.x](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/downloads/)
 [![Colab Notebooks](https://colab.research.google.com/assets/colab-badge.svg)](link-to-your-colab-notebook-here) <!-- Replace with your Colab Notebook Link if applicable -->
